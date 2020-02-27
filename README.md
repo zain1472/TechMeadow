@@ -1,2 +1,0 @@
-# TechMeadow
-Created with CodeSandbox
